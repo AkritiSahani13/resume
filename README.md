@@ -35,7 +35,7 @@ To start my career in the banking and finance sector where I can apply my knowle
 
 ## 🛠️ Skills
 
-* **Technical Skills:** MS Office, MS Excel, Python, CCC (Course on Computer Concepts), Typing
+* **Technical Skills:** MS Office, Advance Excel, CCC (Course on Computer Concepts), Typing
 * **Soft Skills:** Communication, Teamwork, Problem Solving, Time Management
 
 ---
